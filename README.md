@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
-<h3 align="center">A passionate AI developer</h3>
+<h3 align="center">AI developer with a strong passion for NLP, deep learning, and solving complex problems.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
