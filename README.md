@@ -3,8 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/@jimmy_neutron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jimmy_neutron" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/jimmygamaljimmy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jimmygamaljimmy/" height="30" width="40" /></a>
+<a href="https://wa.me/201097072200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
